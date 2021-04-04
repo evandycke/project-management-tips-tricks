@@ -27,8 +27,6 @@ Some Tips and Tricks about Project Management.
 
 * [A code review checklist prevents stupid mistakes](https://dev.to/bosepchuk/a-code-review-checklist-prevents-stupid-mistakes-o6)
 * [Master Test Plan](https://dzone.com/articles/part-3-how-to-develop-a-data-integration-master-te)
-* [DBLog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b) - A Generic Change-Data-Capture Framework
-* [Delta](https://netflixtechblog.com/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee) - A Data Synchronization and Enrichment Platform
 * [Delf](http://www.delf.fr/) - Some technical sheets
 * [Agile Project Management](https://gestiondeprojets.wordpress.com/) - A blog about agile project management
 
@@ -38,13 +36,12 @@ Some Tips and Tricks about Project Management.
 * [Isoflow](https://isoflow.io/) - An online network diagram editor
 * [Docusaurus](https://docusaurus.io/en/) - Makes it easy to maintain Open Source documentation websites
 * [SequenceDiagram](https://sequencediagram.org/) - An online sequence diagram editor
+* [DbDiagram](https://dbdiagram.io/d) - Make some diagrams from your DB (MySQL, PostgreSQL, Rails, SQL Server) and export them to PDF, PNG or an another RDBMS
 
-### Tomorrow I will learn about
+
+## Tomorrow I will learn about
 
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
-* [Apache Nifi](https://dzone.com/articles/apache-nifi-overview?fromrel=true)
-* [FastAPI](https://fastapi.tiangolo.com/)
-* [Apache Superset](https://superset.apache.org/docs/intro) - Business intelligence web application
 
 ## Build with
 
