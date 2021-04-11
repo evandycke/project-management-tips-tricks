@@ -2,7 +2,7 @@
 
 Some Tips and Tricks about Project Management.
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ## Useful documents
 
@@ -38,7 +38,6 @@ Some Tips and Tricks about Project Management.
 * [SequenceDiagram](https://sequencediagram.org/) - An online sequence diagram editor
 * [DbDiagram](https://dbdiagram.io/d) - Make some diagrams from your DB (MySQL, PostgreSQL, Rails, SQL Server) and export them to PDF, PNG or an another RDBMS
 
-
 ## Tomorrow I will learn about
 
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
@@ -46,10 +45,6 @@ Some Tips and Tricks about Project Management.
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
-
-## Get started with ...
-
-...
 
 ## Contributing
 
