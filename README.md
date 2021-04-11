@@ -42,6 +42,12 @@ Some Tips and Tricks about Project Management.
 
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
 
+![Ecosystem of modern data infrastructure](./images/data-infrastructure-ecosystem.png)
+
+![DWH testing](./images/dwh-testing.png)
+
+![Data Story Visualization Decision Tree](./images/data-story-visualization-decision-tree.png)
+
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
