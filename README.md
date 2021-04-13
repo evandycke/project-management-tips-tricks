@@ -6,11 +6,11 @@ Some Tips and Tricks about Project Management.
 
 ## Useful documents
 
-* General technical specifications
-* Detailed technical specifications
-* General functional specifications
-* Detailed functional specifications
-* Code review check list
+* [General technical specifications](https://github.com/evandycke/project-management-tips-tricks/wiki/General-technical-specifications)
+* [Detailed technical specifications](https://github.com/evandycke/project-management-tips-tricks/wiki/Detailed-technical-specifications)
+* [General functional specifications](https://github.com/evandycke/project-management-tips-tricks/wiki/General-functional-specifications)
+* [Detailed functional specifications](https://github.com/evandycke/project-management-tips-tricks/wiki/Detailed-functional-specifications)
+* [Code review check list](https://github.com/evandycke/project-management-tips-tricks/wiki/Code-review-checklist)
 * Propose a [data dictionary](./resources/data_dictionary.xltx)
 * Propose a [data mapping](./resources/data_mapping.xltx)
 * Estimate the [development costs of a project](./resources/cost_estimate.xltx)
