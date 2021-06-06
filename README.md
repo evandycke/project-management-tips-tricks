@@ -33,6 +33,10 @@ Some Tips and Tricks about Project Management.
 * [SequenceDiagram](https://sequencediagram.org/) - An online sequence diagram editor
 * [DbDiagram](https://dbdiagram.io/d) - Make some diagrams from your DB (MySQL, PostgreSQL, Rails, SQL Server) and export them to PDF, PNG or an another RDBMS
 
+## Tomorrow I will learn about
+
+* [The Data Engineering Interview Study Guide](https://betterprogramming.pub/the-data-engineering-interview-study-guide-6f09420dd972)
+
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
