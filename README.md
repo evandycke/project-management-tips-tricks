@@ -24,6 +24,7 @@ Some Tips and Tricks about Project Management.
 * [A code review checklist prevents stupid mistakes](https://dev.to/bosepchuk/a-code-review-checklist-prevents-stupid-mistakes-o6)
 * [Delf](http://www.delf.fr/) - Some technical sheets
 * [Agile Project Management](https://gestiondeprojets.wordpress.com/) - A blog about agile project management
+* [Tips to better manage your team remotely](https://fr.blog.pop.work/popwork-management-tips/popwork-tips-to-better-manage-your-team-remotely/)
 
 ## Useful tools
 
